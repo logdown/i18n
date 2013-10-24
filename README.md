@@ -1,4 +1,4 @@
-Logodown I18n Locale Files
+Logdown I18n Locale Files
 =========================
 
 This repository contains translation files used in Logdown. Locale files are in two formats: YAML string lists and localed view files.
