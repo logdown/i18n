@@ -1,0 +1,18 @@
+zh-CN:
+  activerecord:
+    attributes:
+      blog:
+        subdomain: "博客子域名"
+        fqdn: "自定义域名"
+        title: "博客名称"
+        tagline: "小标题"
+        description: "博客描述"
+        og_image: "默认 Facebook 缩图"
+        per_page_amount: "每页显示文章数"
+        handle: "自定网址格式"
+        time_zone: "时区设置"
+        disqus_id: "disqus-shortname"
+        ga_tracking_code: "Google Analytics ID"
+        google_verify_code: "Google 验证码"
+        rss_hosting_link: "RSS Hosting Link"
+        social_sharing: "社交分享功能"

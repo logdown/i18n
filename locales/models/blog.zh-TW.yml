@@ -1,0 +1,18 @@
+zh-TW:
+  activerecord:
+    attributes:
+      blog:
+        subdomain: "Blog 子網域"
+        fqdn: "自定網域"
+        title: "Blog 名稱"
+        tagline: "小標題"
+        description: "Blog 描述"
+        og_image: "預設 Facebook 縮圖"
+        per_page_amount: "每頁顯示文章數"
+        handle: "自定網址格式"
+        time_zone: "時區設定"
+        disqus_id: "disqus-shortname"
+        ga_tracking_code: "Google Analytics ID"
+        google_verify_code: "Google 驗證碼"
+        rss_hosting_link: "RSS Hosting Link"
+        social_sharing: "社交分享功能"

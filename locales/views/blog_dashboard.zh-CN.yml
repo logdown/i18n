@@ -1,0 +1,44 @@
+zh-CN:
+  blog:
+    dashboard:
+      new_post_btn:
+        label: "新增文章"
+      new_page_btn:
+        label: "新增静态页面"
+      list_view_btn:
+        tooltip: "切换到列表模式"
+      grid_view_btn:
+        tooltip: "切换到格状模式"
+      static_page_btn:
+        label: "静态页面"
+        tooltip: "管理博客静态页面"
+      post_list_btn:
+        label: "文章列表"
+        tooltip: "检视博客所有文章"
+      settings_btn:
+        label: "博客设定"
+      collaborators_btn:
+        label: "管理协作者"
+      visit_blog_btn:
+        label: "浏览博客"
+        tooltip: "浏览 %{blog_url}"
+
+      search_field_placeholder: "搜寻..."
+
+      post_actions:
+        show: "检视"
+        preview: "预览"
+        options_btn:
+          label: "选项"
+        publish: "发布"
+        make_draft: "设为草稿"
+        set_private: "设为私人文章"
+        set_sticky: "文章置顶"
+        unset_sticky: "取消文章置顶"
+        download_markdown: "下载 Markdown 原始档"
+        delete: "删除文章"
+        delete_confirm: "您确定要删除本篇文章？"
+
+      page_actions:
+        delete: "删除静态页面"
+        delete_confirm: "您确定要删除本页静态页面？"

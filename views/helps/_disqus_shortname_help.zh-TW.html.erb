@@ -1,0 +1,24 @@
+
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">×</button>
+  <h3> Disqus 留言 </h3>
+</div>
+
+<div class="modal-body">
+
+  <p>
+    Logdown 使用 <%= link_to("Disqus", "http://disqus.com", :target => "_blank") %> 作為留言系統。
+  </p>
+
+  <p>
+    當您在您的 <%= link_to("Disqus", "http://disqus.com", :target => "_blank") %> 帳戶上註冊完一個網站後，您會得到一個專屬的 <code>shortname</code>。
+  </p>
+  <br>
+
+  <p> <%= image_tag("/images/disqus_shortname.png") %> </p>
+
+</div>
+
+<div class="modal-footer">
+  若您還有其他問題，歡迎<%= mail_to Setting.support_email, "來信聯絡", :encode => "hex" %>。
+</div>

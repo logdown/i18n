@@ -1,0 +1,30 @@
+
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">×</button>
+  <h3> Disqus Comments </h3>
+</div>
+<div class="modal-body">
+
+<p>
+
+  Logdown uses <%= link_to("Disqus", "http://disqus.com", :target => "_blank") %> as comment-service backend.
+
+</p>
+
+
+<p>
+
+After you register a site on <%= link_to("Disqus", "http://disqus.com", :target => "_blank") %> account, you can get a <code>shortname</code>. 
+</p>
+
+<br>
+<p>
+  <%= image_tag("/images/disqus_shortname.png") %>
+</p>
+
+
+</div>
+
+<div class="modal-footer">
+  If you are still having problems, please <%= mail_to Setting.support_email , "mail us", :encode => "hex" %>.
+</div>

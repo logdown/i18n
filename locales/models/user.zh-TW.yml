@@ -1,0 +1,15 @@
+zh-TW:
+  activerecord:
+    attributes:
+      user:
+        name: "使用者名稱"
+        display_name: "顯示名稱"
+        time_zone: "時區設定"
+        locale: "語言"
+        email: "Email"
+        about_me: "關於我"
+        about_me_link: "about.me 網址"
+        twitter_link: "Twitter 網址"
+        github_profile_link: "GitHub 網址"
+        facebook_profile_link: "Facebook 網址"
+        google_plus_link: "Google+ 網址"

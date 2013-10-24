@@ -1,0 +1,18 @@
+en:
+  activerecord:
+    attributes:
+      blog:
+        subdomain: "Subdomain"
+        fqdn: "Custom Domain"
+        title: "Blog Title"
+        tagline: "Tagline"
+        description: "Blog description"
+        og_image: "Default Post Thumbnail"
+        per_page_amount: "Posts per page"
+        handle: "URL Type"
+        time_zone: "Time Zone"
+        disqus_id: "disqus-shortname"
+        ga_tracking_code: "Google Analytics ID"
+        google_verify_code: "Google Verification Code"
+        rss_hosting_link: "RSS Hosting Link"
+        social_sharing: "Enable Social Sharing"

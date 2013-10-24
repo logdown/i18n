@@ -1,0 +1,25 @@
+
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">×</button>
+  <h3> 為您的 Blog 設定自定網域 </h3>
+</div>
+<div class="modal-body">
+
+  <p> 請將您的網域，以 CNAME 記錄指向：</p> <br>
+
+  <p> <code>domains.logdown.com</code> </p> <br>
+
+  <p>
+    設定完您的網域 DNS 之後，最長可能需要 24 小時才會生效。 <br>
+    請在設定完 24 小時後，再回到本頁來填入您欲使用的網域，並按下「儲存」。
+  </p>
+
+  <p>
+    您不需要更換您網域使用的 DNS（名稱解析伺服器）。
+  </p>
+
+</div>
+
+<div class="modal-footer">
+  若您還有其他問題，歡迎<%= mail_to Setting.support_email, "來信聯絡", :encode => "hex" %>。
+</div>

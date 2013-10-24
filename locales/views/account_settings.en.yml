@@ -1,0 +1,80 @@
+en:
+  account:
+    settings:
+      menubar:
+        account: "Account Settings"
+        blogs: "Blogs"
+        orders: "Orders"
+        emails: "Emails"
+        plan: "Plan: %{plan_title}"
+
+      common:
+        email_hint: "You'll have to re-confirm your email if changed."
+        about_me_hint: "This column can be displayed in blog."
+      blogs:
+        title: "My Blogs"
+        blog_name: "Blog Name"
+        owner: "Owner"
+        default_blog: "Default Blog"
+
+        new_blog_btn:
+          label: "New Blog"
+
+        blog_actions:
+          set_default: "Set Default"
+          delete: "Delete Blog"
+          edit: "Edit"
+
+      orders:
+        title: "Order History"
+        order_id: "Order ID"
+        membership_name: "Membership Name"
+        quantity: "Quantity"
+        purchased_date: "Purchased Date"
+        payment_type: "Payment Type"
+        day:
+          one: "%{count} day"
+          other: "%{count} days"
+        year:
+          one: "%{count} year"
+          other: "%{count} years"
+
+      emails:
+        updates:
+          title: "Updates"
+          send_digests: "Send me weekly and monthly digests of posts"
+          send_daily_digests: "Send me daily digests of posts"
+          send_news: "Send me news and announcements"
+        unsubscribe:
+          title: "Unsubscribe"
+          do_not_send: "Don't send me any email from Logdown."
+
+      plan:
+        title: "Membership"
+        status_figure:
+          monthly_subscription: "Monthly Subscription"
+          will_expire_on: "Will expire on"
+          next_billing_date: "Next billing date"
+        current_plan:
+          title: "Your current plan"
+          free_html: "You are currently using <strong>Logdown Free</strong> Plan."
+          premium_html: "You are currently using <strong>Logdown Premium</strong> Plan. Your plan will expire on <strong>%{expire_date}</strong>."
+          premium_subscription_html: "You are currently using <strong>Logdown Premium (Subscription)</strong> Plan. Your next billing date is <strong>%{expire_date}</strong>."
+        plan_actions:
+          upgrade: "Upgrade Plan"
+          extend: "Extend Plan"
+          stop_auto_renew: "Stop auto-renewing my subscription"
+        recent_order:
+          title: "Recent order history"
+          view_all_orders: "View all orders"
+        beta_offering:
+          title: "Beta user special offerings"
+          alert_msg: "Thanks for being an early beta user, you're qualified to get Logdown Premium for half price (if you buy an one-year plan!)"
+          get_premium: "Get 50% off Premium"
+        premium_promo:
+          static_pages: "Unlimited static pages"
+          free_blogs: "More free Blogs"
+          custom_domain: "Custom Domain for Blogs"
+          image_upload: "10GB of Image Upload"
+          upgrade_now: "Upgrade Now"
+

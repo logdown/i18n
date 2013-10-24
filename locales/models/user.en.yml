@@ -1,0 +1,15 @@
+en:
+  activerecord:
+    attributes:
+      user:
+        name: "Username"
+        display_name: "Display Name"
+        time_zone: "Time Zone"
+        locale: "Language"
+        email: "Email"
+        about_me: "About Me"
+        about_me_link: "about.me Profile"
+        twitter_link: "Twitter Profile"
+        github_profile_link: "GitHub Profile"
+        facebook_profile_link: "Facebook Profile"
+        google_plus_link: "Google+ Profile"

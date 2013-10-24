@@ -1,0 +1,70 @@
+en:
+  blog:
+    settings:
+      menubar:
+        blog_settings: "Blog Settings"
+        themes: "Theme"
+        import: "Importing"
+        export: "Exporting"
+        reset: "Reset"
+        collaborators: "Collaborators"
+        post_list: "Article List"
+        view_blog: "View Blog"
+
+      common:
+        guide_btn:
+          label: "Guide"
+        upload_image_btn:
+          label: "Upload Image"
+        change_image_btn:
+          label: "Change Image"
+        remove_image_btn:
+          label: "Remove Image"
+        fqdn_hint: "Need help to setup custom domain? (%{guide_btn})"
+        disqus_hint: "Enable comments with Disqus. (%{guide_btn})"
+        google_analytics_hint: "Put your <a href='http://www.google.com/analytics'>Google Analytics</a> Tracking ID here."
+        google_verification_hint: "For <a href='http://www.google.com.tw/webmasters'>Google Webmaster</a> verification."
+        rss_hosting_hint: "If you host your RSS on somewhere else like Feedbunner."
+
+      themes:
+        current_theme_title: "Current Blog Theme"
+        pick_theme_title: "Pick a new Theme"
+        switch_confirm: "Are you sure to switch to %{theme_name} theme?"
+        btn_edit:
+          label: "Edit"
+        theme_actions:
+          theme_settings: "Theme Settings"
+          edit_html: "Edit HTML"
+        btn_submit_theme:
+          label: "Submit your Themes"
+
+      import:
+        title: "Import from Octopress, Wordpress, Tumblr, Blogger, or MovableType"
+        notice_label: "Important:"
+        guide_btn:
+          label: "Uploading Guide"
+
+      export:
+        support_alert: "We are currently support [Octopress exporting]. Will support [MovableType Exporting] at future."
+        export_btn:
+          label: "Export to zip"
+
+      reset:
+        reset_alert: "Danger! This function will clean all current blog's post.  Make sure you know what you are doing!"
+        reset_btn:
+          label: "Clear all post"
+
+      collaborators:
+        manage_collaborators: "Manage Collaborators"
+        user_name: "Username"
+        user_role: "Role"
+        member_type:
+          owner: "Owner"
+          member: "Member"
+        current_user_indicator: "(You)"
+        add_collaborator: "Add a collaborator"
+        search_placeholder: "Search for a user"
+        premium_alert_html: "<strong>Notice:</strong> Only Premium users are allowed to add collaborators to their blog. Please %{upgrade_btn} your membership."
+        upgrade_btn:
+          label: "upgrade"
+

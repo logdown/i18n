@@ -1,0 +1,19 @@
+zh-CN:
+  common:
+    explore: "探索"
+
+    user_menu:
+      account_settings: "帐户设置"
+      support: "支援"
+      upgrade_premium: "升级至 Premium"
+      logout: "登出"
+
+    blog_menu:
+      manage_blogs: "管理博客"
+
+    footer:
+      official_blog: "官方博客"
+      about: "关於我们"
+      press_kit: "媒体资源"
+      privacy: "隐私权政策"
+      support: "支援"

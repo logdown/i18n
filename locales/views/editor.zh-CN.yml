@@ -1,0 +1,55 @@
+zh-CN:
+  editor:
+    toolbar:
+      undo: "复原"
+      redo: "重做"
+      heading: "标题"
+      sub-heading: "副标题"
+      link: "插入连结"
+      media: "插入图片"
+      mathjax: "插入 LaTeX"
+      bold: "粗体"
+      italic: "斜体"
+      quote: "段落引用"
+      list: "项目清单"
+      numbered-list: "编号清单"
+      more: "「阅读更多」标记"
+      help: "Markdown 语法小抄"
+      ime: "实验性输入法支援功能"
+
+    popover:
+      insert_btn:
+        label: "插入"
+
+      link:
+        url: "连结网址"
+        name: "连结文字"
+        title: "连结标题（选择性）"
+
+      image:
+        url: "图片网址"
+        alt_text: "替代文字（选择性）"
+        align: "对齐"
+        upload: "上传图片"
+
+      settings:
+        title: "设定"
+        change_state:
+          title: "文章发布状态"
+          published: "公开发布"
+          draft: "草稿"
+          private: "私人"
+        publish_time: "发表时间"
+        category:
+          title: "文章分类"
+          add_category: "新增分类"
+          manage_category: "管理分类"
+
+    sidebar:
+      edit: "编辑"
+      preview: "预览"
+      settings: "设定"
+      save: "储存"
+      show_in_blog: "在博客中检视"
+      preview_in_blog: "在博客中预览"
+      back_top: "回到顶端"

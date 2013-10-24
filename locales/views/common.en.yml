@@ -1,0 +1,19 @@
+en:
+  common:
+    explore: "Explore"
+
+    user_menu:
+      account_settings: "Account Settings"
+      support: "Support"
+      upgrade_premium: "Upgrade to Premium"
+      logout: "Logout"
+
+    blog_menu:
+      manage_blogs: "Manage Blogs"
+
+    footer:
+      official_blog: "Official Blog"
+      about: "About"
+      press_kit: "Press Kit"
+      privacy: "Privacy"
+      support: "Support"

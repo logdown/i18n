@@ -1,0 +1,42 @@
+
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">×</button>
+  <h3> Import from Wordpress </h3>
+</div>
+<div class="modal-body">
+
+
+<p>
+
+Please archive your <code> wordpress.xml</code> to a <code>zip</code> file first then upload.
+
+</p>
+
+<p>
+ex. <code> my-awesome-blog.zip </code>
+
+</p>
+
+<br>
+<p>
+
+  old wordpress url such as 
+
+  <ul>
+    <li>/?p=1234  </li>
+    <li>/2013/06/18/my-post-title </li>
+    <li>/2013/06/my-post-title </li>
+    <li>/archives/1234 </li>
+  </ul>
+
+  will auto <code> 301 moved permanently </code> &nbsp; to new path (for SEO)
+</p>
+
+
+
+
+</div>
+
+<div class="modal-footer">
+  If you are still having problems, please <%= mail_to Setting.support_email , "mail us", :encode => "hex" %>.
+</div>

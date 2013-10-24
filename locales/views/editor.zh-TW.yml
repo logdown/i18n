@@ -1,0 +1,55 @@
+zh-TW:
+  editor:
+    toolbar:
+      undo: "復原"
+      redo: "重做"
+      heading: "標題"
+      sub-heading: "副標題"
+      link: "插入連結"
+      media: "插入圖片"
+      mathjax: "插入 LaTeX"
+      bold: "粗體"
+      italic: "斜體"
+      quote: "段落引用"
+      list: "項目清單"
+      numbered-list: "編號清單"
+      more: "「閱讀更多」標記"
+      help: "Markdown 語法小抄"
+      ime: "實驗性輸入法支援功能"
+
+    popover:
+      insert_btn:
+        label: "插入"
+
+      link:
+        url: "連結網址"
+        name: "連結文字"
+        title: "連結標題（選擇性）"
+
+      image:
+        url: "圖片網址"
+        alt_text: "替代文字（選擇性）"
+        align: "對齊"
+        upload: "上傳圖片"
+
+      settings:
+        title: "設定"
+        change_state:
+          title: "文章發佈狀態"
+          published: "公開發佈"
+          draft: "草稿"
+          private: "私人"
+        publish_time: "發表時間"
+        category:
+          title: "文章分類"
+          add_category: "新增分類"
+          manage_category: "管理分類"
+
+    sidebar:
+      edit: "編輯"
+      preview: "預覽"
+      settings: "設定"
+      save: "儲存"
+      show_in_blog: "在 Blog 中檢視"
+      preview_in_blog: "在 Blog 中預覽"
+      back_top: "回到頂端"

@@ -1,0 +1,24 @@
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">×</button>
+  <h3> 從 Octopress 匯入 </h3>
+</div>
+
+<div class="modal-body">
+
+  <p>
+    請將您的 <code>_post/</code> 資料夾，壓縮為 <code>zip</code> 檔案後再上傳。
+  </p>
+
+  <p>
+    例如 <code>my-awesome-blog.zip</code>
+  </p>
+
+  <br>
+  <p>
+    我們目前只會匯入 <code>.markdown</code> 或 <code>.md</code> 檔案，匯入前請先確認您使用正確的格式。
+  </p>
+</div>
+
+<div class="modal-footer">
+  若您還有其他問題，歡迎<%= mail_to Setting.support_email, "來信聯絡", :encode => "hex" %>。
+</div>

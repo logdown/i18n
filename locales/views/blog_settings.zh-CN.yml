@@ -1,0 +1,70 @@
+zh-CN:
+  blog:
+    settings:
+      menubar:
+        blog_settings: "博客设定"
+        themes: "布景主题"
+        import: "汇入"
+        export: "汇出"
+        reset: "重置博客"
+        collaborators: "协作者"
+        post_list: "文章列表"
+        view_blog: "浏览博客"
+
+      common:
+        guide_btn:
+          label: "教学"
+        upload_image_btn:
+          label: "上传图片"
+        change_image_btn:
+          label: "更换图片"
+        remove_image_btn:
+          label: "移除图片"
+        fqdn_hint: "需要了解如何设定自定域名？（%{guide_btn}）"
+        disqus_hint: "使用 Disqus 启用留言功能（%{guide_btn}）"
+        google_analytics_hint: "在此输入您的 <a href='http://www.google.com/analytics'>Google Analytics</a> 追踪 ID。"
+        google_verification_hint: "供 <a href='http://www.google.com.tw/webmasters'>Google Webmaster</a> 验证使用。"
+        rss_hosting_hint: "如果您将您的 RSS 放在 Feedburner 或其他地方，请填写於此。"
+
+      themes:
+        current_theme_title: "目前的博客布景主题"
+        pick_theme_title: "选择新的布景主题"
+        switch_confirm: "您确定要套用 %{theme_name} 布景主题吗？"
+        btn_edit:
+          label: "编辑"
+        theme_actions:
+          theme_settings: "布景主题设定"
+          edit_html: "编辑 HTML"
+        btn_submit_theme:
+          label: "投稿您制作的布景主题"
+
+      import:
+        title: "从 Octopress丶Wordpress丶Tumblr丶Blogger 或 MovableType 汇入"
+        notice_label: "重要:"
+        guide_btn:
+          label: "上传说明"
+
+      export:
+        support_alert: "我们目前仅支援汇出至 Octopress 格式。未来会支援汇出至 MovableType 格式。"
+        export_btn:
+          label: "汇出为 .zip 压缩档"
+
+      reset:
+        reset_alert: "警告：重置 Blog 会清空此 Blog 内的所有文章。请再三确认！"
+        reset_btn:
+          label: "清除所有文章"
+
+      collaborators:
+        manage_collaborators: "管理协作者"
+        user_name: "使用者名称"
+        user_role: "角色"
+        member_type:
+          owner: "拥有者"
+          member: "参与者"
+        current_user_indicator: "(您)"
+        add_collaborator: "新增协作者"
+        search_placeholder: "搜寻使用者"
+        premium_alert_html: "<strong>注意：</strong>只有 Premium 用户可以为博客新增协作者。请%{upgrade_btn}您的帐户。"
+        upgrade_btn:
+          label: "升级"
+

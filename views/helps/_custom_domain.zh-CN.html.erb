@@ -1,0 +1,25 @@
+
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">×</button>
+  <h3> 为您的博客设定自定义域名 </h3>
+</div>
+<div class="modal-body">
+
+  <p> 请将您的域名，以 CNAME 记录指向：</p> <br>
+
+  <p> <code>domains.logdown.com</code> </p> <br>
+
+  <p>
+    设定完您的域名 DNS 之後，最长可能需要 24 小时才会生效。 <br>
+    请在设定完 24 小时後，再回到本页来填入您欲使用的域名，并按下「储存」。
+  </p>
+
+  <p>
+    您不需要更换您域名使用的 DNS（名称解析伺服器）。
+  </p>
+
+</div>
+
+<div class="modal-footer">
+  若您还有其他问题，欢迎<%= mail_to Setting.support_email, "来信联络", :encode => "hex" %>。
+</div>

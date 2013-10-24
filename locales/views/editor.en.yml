@@ -1,0 +1,55 @@
+en:
+  editor:
+    toolbar:
+      undo: "Undo"
+      redo: "Redo"
+      heading: "Heading"
+      sub-heading: "Sub Heading"
+      link: "Insert Link"
+      media: "Insert Image"
+      mathjax: "LaTeX"
+      bold: "Bold"
+      italic: "Italic"
+      quote: "Blockquote"
+      list: "List"
+      numbered-list: "Numbered List"
+      more: "Read More"
+      help: "Markdown Cheatsheet"
+      ime: "Experimental Composition Enhancements"
+
+  popover:
+      insert_btn:
+        label: "Insert"
+
+      link:
+        url: "Link URL"
+        name: "Link Name"
+        title: "Title (optional)"
+
+      image:
+        url: "Image URL"
+        alt_text: "Alt text (optional)"
+        align: "Align"
+        upload: "Upload"
+
+      settings:
+        title: "Settings"
+        change_state:
+          title: "Change State"
+          published: "Published"
+          draft: "Draft"
+          private: "Private"
+        publish_time: "Publish Time"
+        category:
+          title: "Categories"
+          add_category: "Add Category"
+          manage_category: "Manage Categories"
+
+  sidebar:
+      edit: "Edit"
+      preview: "Preview"
+      settings: "Settings"
+      save: "Save"
+      show_in_blog: "Show in Blog"
+      preview_in_blog: "Preview in Blog"
+      back_top: "Back to Top"

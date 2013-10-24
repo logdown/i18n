@@ -1,0 +1,44 @@
+en:
+  blog:
+    dashboard:
+      new_post_btn:
+        label: "New Post"
+      new_page_btn:
+        label: "New Page"
+      list_view_btn:
+        tooltip: "Switch to List View"
+      grid_view_btn:
+        tooltip: "Switch to Grid View"
+      static_page_btn:
+        label: "Pages"
+        tooltip: "Manage Static Pages"
+      post_list_btn:
+        label: "Posts"
+        tooltip: "View Blog Posts"
+      settings_btn:
+        label: "Settings"
+      collaborators_btn:
+        label: "Collaborators"
+      visit_blog_btn:
+        label: "Visit Blog"
+        tooltip: "Visit %{blog_url}"
+
+      search_field_placeholder: "Search..."
+
+      post_actions:
+        show: "Show"
+        preview: "Preview"
+        options_btn:
+          label: "Options"
+        publish: "Publish"
+        make_draft: "Make Draft"
+        set_private: "Set Private"
+        set_sticky: "Stick on Top"
+        unset_sticky: "Cancel stick on top"
+        download_markdown: "Download Markdown"
+        delete: "Delete Post"
+        delete_confirm: "Are you sure to delete this post?"
+
+      page_actions:
+        delete: "Delete Page"
+        delete_confirm: "Are you sure to delete this static page?"

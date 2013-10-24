@@ -1,0 +1,81 @@
+zh-TW:
+  account:
+    settings:
+      menubar:
+        account: "帳戶設定"
+        blogs: "Blog 管理"
+        orders: "訂單記錄"
+        emails: "Email 通知"
+        plan: "方案: %{plan_title}"
+
+      common:
+        email_hint: "修改 Email 後需要重新認證您的信箱。"
+        about_me_hint: "此欄位可以顯示於 Blog 上。"
+
+      blogs:
+        title: "我的 Blog"
+        blog_name: "Blog 名稱"
+        owner: "擁有者"
+        default_blog: "預設 Blog"
+
+        new_blog_btn:
+          label: "新增 Blog"
+
+        blog_actions:
+          set_default: "設為預設 Blog"
+          delete: "刪除 Blog"
+          edit: "編輯"
+
+      orders:
+        title: "訂單記錄"
+        order_id: "訂單編號"
+        membership_name: "訂購方案"
+        quantity: "數量"
+        purchased_date: "購買日期"
+        payment_type: "付款方式"
+        day:
+          one: "%{count} 天"
+          other: "%{count} 天"
+        year:
+          one: "%{count} 年"
+          other: "%{count} 年"
+
+      emails:
+        updates:
+          title: "訊息速報"
+          send_digests: "寄給我每週及每月的熱門文章精選"
+          send_daily_digests: "寄給我每日的熱門文章精選"
+          send_news: "寄給我最新消息及公告訊息"
+        unsubscribe:
+          title: "謝絕訂閱"
+          do_not_send: "請不要寄給我任何來自 Logdown 的電子報"
+
+      plan:
+        title: "會員方案"
+        status_figure:
+          monthly_subscription: "月租型訂閱"
+          will_expire_on: "方案到期日"
+          next_billing_date: "下次付款日期"
+        current_plan:
+          title: "您目前的方案"
+          free_html: "您目前使用 <strong>Logdown Free</strong> 方案。"
+          premium_html: "您目前使用 <strong>Logdown Premium</strong> 方案。您的方案將會在 <strong>%{expire_date}</strong> 到期。"
+          premium_subscription_html: "您目前使用 <strong>Logdown Premium (月租型)</strong> 方案。您的下次付款日期為 <strong>%{expire_date}</strong>。"
+        plan_actions:
+          upgrade: "升級方案"
+          extend: "延長方案"
+          stop_auto_renew: "停止自動續約我的月租方案"
+        recent_order:
+          title: "最近的訂單記錄"
+          view_all_orders: "檢視所有訂單"
+        beta_offering:
+          title: "Beta 使用者酬賓回饋方案"
+          alert_msg: "為了感謝您成為早鳥 Beta 使用者，您現在可以用半價購買 Logdown Premium 的一年期方案！"
+          get_premium: "購買半價 Premium 方案"
+        premium_promo:
+          static_pages: "無限建立靜態頁面"
+          free_blogs: "可開設更多免費 Blog"
+          custom_domain: "為 Blog 自定網域"
+          image_upload: "10GB 圖片上傳容量"
+          upgrade_now: "立即升級"
+
