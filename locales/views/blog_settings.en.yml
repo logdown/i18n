@@ -4,6 +4,7 @@ en:
       menubar:
         blog_settings: "Blog Settings"
         themes: "Theme"
+        categories: "Categories"
         import: "Importing"
         export: "Exporting"
         reset: "Reset"
@@ -37,6 +38,16 @@ en:
           edit_html: "Edit HTML"
         btn_submit_theme:
           label: "Submit your Themes"
+
+      categories:
+        title: "Your Categories"
+        category_name: "Category Name"
+        posts_count: "Posts"
+        delete: "Delete"
+        delete_confirm: "Are you sure to delete this category?"
+        add_category: "Add Category"
+        add_btn:
+          label: "Add"
 
       import:
         title: "Import from Octopress, Wordpress, Tumblr, Blogger, or MovableType"

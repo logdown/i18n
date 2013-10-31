@@ -4,6 +4,7 @@ zh-TW:
       menubar:
         blog_settings: "Blog 設定"
         themes: "佈景主題"
+        categories: "文章分類"
         import: "匯入"
         export: "匯出"
         reset: "重置 Blog"
@@ -37,6 +38,16 @@ zh-TW:
           edit_html: "編輯 HTML"
         btn_submit_theme:
           label: "投稿您製作的佈景主題"
+
+      categories:
+        title: "您的文章分類"
+        category_name: "分類名稱"
+        posts_count: "文章數量"
+        delete: "刪除"
+        delete_confirm: "您確定要刪除此文章分類？"
+        add_category: "新增文章分類"
+        add_btn:
+          label: "新增"
 
       import:
         title: "從 Octopress、Wordpress、Tumblr、Blogger 或 MovableType 匯入"

@@ -4,6 +4,7 @@ zh-CN:
       menubar:
         blog_settings: "博客设定"
         themes: "布景主题"
+        categories: "文章分类"
         import: "汇入"
         export: "汇出"
         reset: "重置博客"
@@ -37,6 +38,16 @@ zh-CN:
           edit_html: "编辑 HTML"
         btn_submit_theme:
           label: "投稿您制作的布景主题"
+
+      categories:
+        title: "您的文章分类"
+        category_name: "分类名称"
+        posts_count: "文章数量"
+        delete: "删除"
+        delete_confirm: "您确定要删除此文章分类？"
+        add_category: "添加文章分类"
+        add_btn:
+          label: "添加"
 
       import:
         title: "从 Octopress丶Wordpress丶Tumblr丶Blogger 或 MovableType 汇入"
